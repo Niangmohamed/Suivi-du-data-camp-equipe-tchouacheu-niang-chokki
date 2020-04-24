@@ -25,7 +25,7 @@ plutôt un responsable pour chacune des parties du projet. Ci dessous, une visio
 
 ---
 
-Nous avons aussi effectué une exploration de nos données. Ces dernières sont subdivisées en 4 : 
+Nous avons aussi effectué une exploration de nos données. Ces dernières sont subdivisées en 4 :
 
 * train_transaction & test_transaction :
 
