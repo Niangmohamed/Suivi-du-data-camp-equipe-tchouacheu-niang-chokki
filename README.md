@@ -123,3 +123,4 @@ Vous trouverez dans ce répertoire l'ensemble des fichiers utiles à ce projet :
 * Lien Kaggle du projet (Notebooks & Datasets) [**Mohamed Niang**, **Fernanda Tchouacheu** & **Hypolite Chokki**](https://www.kaggle.com/niangmohamed/notebooks). 
 
 * Lien Overleaf du rapport [**Mohamed Niang**, **Fernanda Tchouacheu** & **Hypolite Chokki**](https://www.overleaf.com/read/dthpfnfkfkjf). 
+
